@@ -1,0 +1,30 @@
+.product_page
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top:100px;
+    padding-bottom: 50px;
+    background-color: rgba(205, 214, 219, 0.1   );
+}
+
+.product__info
+{
+    color: white;
+    margin-top: 250px;
+    align-items: center;
+}
+.product__photo
+{
+    width: 500px;
+}
+
+.product__price
+{
+margin-bottom: 30px;
+}
+
+a.button7
+{
+    padding: 15px;
+    border-radius: 5px;
+}

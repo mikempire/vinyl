@@ -1,0 +1,56 @@
+.shop_page
+{
+    display: flex;
+    margin-top:100px;
+    flex-wrap: wrap;
+    padding-bottom: 50px;
+    background-color: rgba(205, 214, 219, 0.1   );
+}
+
+
+.shop
+{
+
+}
+
+.shop__item
+{
+    color: white;
+    margin: 5px 15px;
+
+}
+
+.shop:hover
+{
+
+    transition: all 0 ease;
+    padding: 0;
+    cursor: pointer;
+}
+
+.shop__photo:hover
+{   
+    transition: all 0.5 ease;
+    padding: 1px;
+}
+
+
+.buy
+{
+    margin-top: 5px;
+}
+
+.shop__photo
+{
+    text-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.goods_shop
+{
+    margin-left: 50px;
+    margin-top: 50px;
+    color: white;
+    margin-bottom: -50px;
+}
+
+
+

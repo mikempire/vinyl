@@ -1,0 +1,113 @@
+.container2
+{
+    width: 100%;
+    max-width: 1380px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.intros
+    {
+    background: white;
+    }
+
+
+.header__inner
+    {
+    filter: invert(100%);
+    }
+
+.cart__icon
+{
+    filter: invert(100%);
+}
+
+.jcont
+{
+    text-align: center;
+}
+
+.j_center
+{
+    display: flex;
+    background: url(/template/img/AngelsAndAirwaves_303mag_DAmimoto-27.jpg) no-repeat;
+    width: auto;
+    height: 750px;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-size: cover;
+}
+
+.j_title
+{
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgba(0,0,0,1.5);
+    font-size: 40px;
+}
+
+.j_btn
+{
+    background: rgba(0,0,0,.4);
+    border-radius: 25px;
+    text-align: center;
+    padding: 5px;
+    width: 200px;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+}
+
+.j_content
+{
+    display: flex;
+    margin-top: 50px;
+    
+}
+
+.content_block
+{
+    width: 40%
+}
+
+.content_block2
+{
+
+    justify-content: center;
+    width: 60%;
+    background: url(/template/img/AngelsAndAirwaves_303mag_DAmimoto-27.jpg) 50% 50% no-repeat;
+    /*height: 200px;*/
+    text-align: center;
+}
+
+.j_vinil
+{
+    display: flex;
+
+}
+
+.j_vinil img
+{
+    width: 50%;
+}
+
+.j_vinil_2
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.j_vinil_2 img
+{
+    width: 100%;
+}
+
+.goods
+{
+    padding: 0px 5px 5px 5px ;
+}
+
+.journal__link{
+    width: 50%;
+    color: black;
+}
